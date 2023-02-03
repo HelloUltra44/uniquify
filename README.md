@@ -32,7 +32,7 @@
         <li>Open a Linux Terminal and run the following commands.</li>
         <li><code>git clone https://github.com/m4mallu/uniquify</code></li>
         <li><code>cd uniquify</code></li>
-        <li>Create a <code>config.py</code> file with the mandatory variables.(Refer <code>sample_config.py</code>)</li>
+        <li>Create a <code>config.py</code> file with the mandatory variables.(Refer <code>config.py</code>)</li>
         <li>Run the following commands in the same terminal opened.</li>
         <li><code>virtualenv -p python3 venv</code></li>
         <li><code>. ./venv/bin/activate</code></li>
